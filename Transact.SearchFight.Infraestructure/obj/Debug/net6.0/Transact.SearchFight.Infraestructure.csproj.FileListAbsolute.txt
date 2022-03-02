@@ -1,0 +1,15 @@
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\bin\Debug\net6.0\Transact.SearchFight.Infraestructure.deps.json
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\bin\Debug\net6.0\Transact.SearchFight.Infraestructure.dll
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\bin\Debug\net6.0\ref\Transact.SearchFight.Infraestructure.dll
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\bin\Debug\net6.0\Transact.SearchFight.Infraestructure.pdb
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\bin\Debug\net6.0\Tranzact.SearchFight.ApplicationCore.dll
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\bin\Debug\net6.0\Tranzact.SearchFight.ApplicationCore.pdb
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\obj\Debug\net6.0\Transact.SearchFight.Infraestructure.csproj.AssemblyReference.cache
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\obj\Debug\net6.0\Transact.SearchFight.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\obj\Debug\net6.0\Transact.SearchFight.Infraestructure.AssemblyInfoInputs.cache
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\obj\Debug\net6.0\Transact.SearchFight.Infraestructure.AssemblyInfo.cs
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\obj\Debug\net6.0\Transact.SearchFight.Infraestructure.csproj.CoreCompileInputs.cache
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\obj\Debug\net6.0\Transact.SearchFight.Infraestructure.csproj.CopyComplete
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\obj\Debug\net6.0\Transact.SearchFight.Infraestructure.dll
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\obj\Debug\net6.0\ref\Transact.SearchFight.Infraestructure.dll
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.Infraestructure\obj\Debug\net6.0\Transact.SearchFight.Infraestructure.pdb

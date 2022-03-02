@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Transact.SearchFight.ConsoleUI": {
+      "commandName": "Project",
+      "commandLineArgs": ".net java \"java script\""
+    }
+  }
+}

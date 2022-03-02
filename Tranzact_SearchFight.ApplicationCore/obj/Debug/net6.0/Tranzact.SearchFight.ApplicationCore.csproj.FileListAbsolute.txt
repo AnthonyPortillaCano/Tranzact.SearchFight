@@ -1,0 +1,12 @@
+D:\TranzactDemo2022\Tranzact_SearchFight\Tranzact_SearchFight.ApplicationCore\bin\Debug\net6.0\Tranzact.SearchFight.ApplicationCore.deps.json
+D:\TranzactDemo2022\Tranzact_SearchFight\Tranzact_SearchFight.ApplicationCore\bin\Debug\net6.0\Tranzact.SearchFight.ApplicationCore.dll
+D:\TranzactDemo2022\Tranzact_SearchFight\Tranzact_SearchFight.ApplicationCore\bin\Debug\net6.0\ref\Tranzact.SearchFight.ApplicationCore.dll
+D:\TranzactDemo2022\Tranzact_SearchFight\Tranzact_SearchFight.ApplicationCore\bin\Debug\net6.0\Tranzact.SearchFight.ApplicationCore.pdb
+D:\TranzactDemo2022\Tranzact_SearchFight\Tranzact_SearchFight.ApplicationCore\obj\Debug\net6.0\Tranzact.SearchFight.ApplicationCore.csproj.AssemblyReference.cache
+D:\TranzactDemo2022\Tranzact_SearchFight\Tranzact_SearchFight.ApplicationCore\obj\Debug\net6.0\Tranzact.SearchFight.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranzactDemo2022\Tranzact_SearchFight\Tranzact_SearchFight.ApplicationCore\obj\Debug\net6.0\Tranzact.SearchFight.ApplicationCore.AssemblyInfoInputs.cache
+D:\TranzactDemo2022\Tranzact_SearchFight\Tranzact_SearchFight.ApplicationCore\obj\Debug\net6.0\Tranzact.SearchFight.ApplicationCore.AssemblyInfo.cs
+D:\TranzactDemo2022\Tranzact_SearchFight\Tranzact_SearchFight.ApplicationCore\obj\Debug\net6.0\Tranzact.SearchFight.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\TranzactDemo2022\Tranzact_SearchFight\Tranzact_SearchFight.ApplicationCore\obj\Debug\net6.0\Tranzact.SearchFight.ApplicationCore.dll
+D:\TranzactDemo2022\Tranzact_SearchFight\Tranzact_SearchFight.ApplicationCore\obj\Debug\net6.0\ref\Tranzact.SearchFight.ApplicationCore.dll
+D:\TranzactDemo2022\Tranzact_SearchFight\Tranzact_SearchFight.ApplicationCore\obj\Debug\net6.0\Tranzact.SearchFight.ApplicationCore.pdb
