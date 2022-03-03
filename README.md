@@ -26,6 +26,7 @@ To determine the popularity of programming languages on the internet we want to 
 - Google Search API
 - Bing Search API
 - XUnit for testing
+- Visual Studio 2022
 
 ## Principles 
 - SOLID
