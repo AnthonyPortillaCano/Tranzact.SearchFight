@@ -18,4 +18,9 @@
     <ProjectReference Include="..\Transact.SearchFight.Infraestructure\Transact.SearchFight.Infraestructure.csproj" />
   </ItemGroup>
 
+	<ItemGroup>
+		<None Update="appsettings.json">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
 </Project>

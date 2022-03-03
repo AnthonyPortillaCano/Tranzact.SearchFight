@@ -46,3 +46,4 @@ D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.ConsoleUI\obj\Debu
 D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.ConsoleUI\obj\Debug\net6.0\ref\Transact.SearchFight.ConsoleUI.dll
 D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.ConsoleUI\obj\Debug\net6.0\Transact.SearchFight.ConsoleUI.pdb
 D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.ConsoleUI\obj\Debug\net6.0\Transact.SearchFight.ConsoleUI.genruntimeconfig.cache
+D:\TranzactDemo2022\Tranzact_SearchFight\Transact.SearchFight.ConsoleUI\bin\Debug\net6.0\appsettings.json
